@@ -1,3 +1,5 @@
+This is the OpenLive sample app provided by Agora. We have implemented Firebase in it.
+
 # OpenLive for Android
 
 The OpenLive for Android Sample App is an open-source demo that will help you get live video broadcasting integrated directly into your Android applications using the Agora Video SDK.
